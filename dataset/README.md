@@ -1,9 +1,8 @@
 
 ##  Data Sourcing
 
-1. Go to [Etherscan](https://etherscan.io/)
-2. Navigate to **"More"** → **"Verified Contracts"**
-3. Select a contract to view its source code.
+1. Go to [Etherscan](https://etherscan.io/contractsverified)
+2.Select a contract to view its source code.
 
 > **Why this source?**
 > * **Real-world data:** Actual contracts deployed on Mainnet.
